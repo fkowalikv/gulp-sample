@@ -1,9 +1,5 @@
 /*
-    gulp.task
-    gulp.src
-    gulp.dest
-    gulp.watch
-    gulp.series
+    HTML version
 */
 
 var gulp = require('gulp');
