@@ -1,6 +1,7 @@
 # Custom
 src/
 dist/
+.idea/
 
 # Node Template
 # Logs

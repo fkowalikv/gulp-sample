@@ -14,16 +14,6 @@ $ gulp build
 Optimize _.scss_, _.js_ and image (_.jpg_, _.jpeg_, _.png_, _.svg_, _.gif_) files.
 ___
 #### Setting up new project
-PHP version
-```sh
-$ git clone https://github.com/lajtof/gulp-sample.git
-$ cd gulp-sample
-$ rm -rf .git
-$ mv php/gulpfile.js .
-$ npm i
-$ git init
-```
-HTML version
 ```sh
 $ git clone https://github.com/lajtof/gulp-sample.git
 $ cd gulp-sample
