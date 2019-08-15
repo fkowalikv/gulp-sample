@@ -1,7 +1,8 @@
 # Custom
-src/
-dist/
 .idea/
+dist/
+src/css/*.css
+src/js/script.js
 
 # Node Template
 # Logs
