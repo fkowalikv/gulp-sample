@@ -18,7 +18,6 @@ ___
 $ git clone https://github.com/lajtof/gulp-sample.git
 $ cd gulp-sample
 $ rm -rf .git
-$ mv html/gulpfile.js .
 $ npm i
 $ git init
 ```
